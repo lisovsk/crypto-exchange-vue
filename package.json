@@ -15,9 +15,13 @@
     "storybook": "start-storybook -p 9001 -c .storybook"
   },
   "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.5",
+    "font-awesome-sass": "^4.7.0",
+    "font-awesome-webpack": "0.0.5-beta.2",
     "lodash": "^4.17.5",
     "vue": "^2.5.2",
     "vue-click-outside": "^1.0.7",
+    "vue-loading-spinner": "^1.0.11",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
